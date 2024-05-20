@@ -2,7 +2,8 @@
 Repositorio para usar en Sintaxis y Semántica de los Lenguajes
 # Compilador
   # Output de la consola
-  gcc --version
+gcc --version
+
 gcc.exe (Rev6, Built by MSYS2 project) 13.1.0
 Copyright (C) 2023 Free Software Foundation, Inc.
 This is free software; see the source for copying conditions.  There is NO
